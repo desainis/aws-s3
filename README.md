@@ -1,4 +1,36 @@
-Role Name
+![Contributors](https://img.shields.io/github/contributors/desainis/aws-s3)
+![Forks](https://img.shields.io/github/forks/desainis/aws-s3)
+![Stargazers](https://img.shields.io/github/stars/desainis/aws-s3)
+![Issues](https://img.shields.io/github/issues/desainis/aws-s3)
+![MIT License](https://img.shields.io/github/license/desainis/aws-s3)
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/desainis/aws-s3">
+    <img src="https://vuejs.org/images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://www.ansible.com/hubfs/2016_Images/Assets/Ansible-Mark-Large-RGB-Mango.png?hsLang=en-us" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Todos App</h3>
+
+  <p align="center">
+    This sample web application is used to demonstrate how to manage complex AWS Architectures using Ansible.
+    <br />
+    <a href="https://github.com/desainis/aws-s3"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/desainis/aws-s3">View Demo</a>
+    ·
+    <a href="https://github.com/desainis/aws-s3/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/desainis/aws-s3/issues">Request Feature</a>
+  </p>
+</p>
+
+------------
+
+Ansible Role: aws-s3
 =========
 
 A brief description of the role goes here.
